@@ -1,0 +1,21 @@
+.ok{
+    color: beige;
+    background-color: black;
+    background-size: 50px;
+    border: 50px;
+    border-radius: 10px;
+    border-bottom: 20px;
+    
+}
+.no{
+    text-align: center;
+    border: 20px;
+    color: chartreuse;
+    background-color: black;
+    background-size: 50%px;
+    box-shadow: 100px;
+    border-style: outset;
+}
+.hamid{
+  align-items: center;
+}
